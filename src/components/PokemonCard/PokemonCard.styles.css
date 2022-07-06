@@ -1,0 +1,69 @@
+.types {
+  display: grid;
+  gap: 4px;
+  grid-auto-flow: column;
+  place-items: center;
+  place-content: center;
+}
+.type {
+  padding: 4px 8px;
+  border-radius: 5px;
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+  font-size: xx-small;
+}
+.bg-type-normal {
+  background-color: var(--color-type-normal);
+}
+.bg-type-fire {
+  background-color: var(--color-type-fire);
+}
+.bg-type-water {
+  background-color: var(--color-type-water);
+}
+.bg-type-electric {
+  background-color: var(--color-type-electric);
+}
+.bg-type-grass {
+  background-color: var(--color-type-grass);
+}
+.bg-type-ice {
+  background-color: var(--color-type-ice);
+}
+.bg-type-fighting {
+  background-color: var(--color-type-fighting);
+}
+.bg-type-poison {
+  background-color: var(--color-type-poison);
+}
+.bg-type-ground {
+  background-color: var(--color-type-ground);
+}
+.bg-type-flying {
+  background-color: var(--color-type-flying);
+}
+.bg-type-psychic {
+  background-color: var(--color-type-psychic);
+}
+.bg-type-bug {
+  background-color: var(--color-type-bug);
+}
+.bg-type-rock {
+  background-color: var(--color-type-rock);
+}
+.bg-type-ghost {
+  background-color: var(--color-type-ghost);
+}
+.bg-type-dragon {
+  background-color: var(--color-type-dragon);
+}
+.bg-type-dark {
+  background-color: var(--color-type-dark);
+}
+.bg-type-steel {
+  background-color: var(--color-type-steel);
+}
+.bg-type-fairy {
+  background-color: var(--color-type-fairy);
+}
